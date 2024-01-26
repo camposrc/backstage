@@ -1,0 +1,13 @@
+[
+    {
+      "title": "Developer Tools",
+      "isExpanded": true,
+      "links": [
+        {
+          "iconUrl": "/homepage/icons/podman_logo.svg",
+          "label": "Podman Desktop",
+          "url": "https://podman-desktop.io"
+        }
+      ]
+    }
+  ]
